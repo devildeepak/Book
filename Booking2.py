@@ -13,11 +13,11 @@ users = {
         "mobile": "9788816044",
         "email": "fadaw50425@exclussi.com"
     },
-    "Karthik S": {
-        "name": "Karthik S",
-        "userId": "22183f18-dfaa-4eca-a3d1-003116f785f0",
-        "mobile": "9347134395",
-        "email": "karthiksamana@gmail.com"
+    "chagez khan": {
+        "name": "chagez khan",
+        "userId":"2b2fac5e-b9e7-445d-b8b4-d46d7f4a1f83",
+        "mobile": "2252542523",
+        "email": "ksrxib8q3l@qzueos.com"
     }
 }
 
